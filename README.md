@@ -6,12 +6,12 @@
 </div>
 
 ## :bookmark_tabs:	Índice
-* [](#1-o-que-é-um-loop)
-* [](#2-for)
-* [](#3-forin)
-* [](#4-forof)
-* [](#5-while)
-* [](#6-switch)
+* [1. O que é um Loop](#1-o-que-é-um-loop)
+* [2. For](#2-for)
+* [3. For...in](#3-forin)
+* [4. For...of](#4-forof)
+* [5. While](#5-while)
+* [6. Switch](#6-switch)
 
 ## :computer:	Ferramentas e linguagens utilizadas no desenvolvimento
 <div align="auto">
