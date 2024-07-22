@@ -2,12 +2,16 @@
 <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="70"></a>
 
 # **JavaScript**
-### `Condicionais`
+### `Arrays e Loops`
 </div>
 
 ## :bookmark_tabs:	Índice
-* []()
-
+* [](#1-o-que-é-um-loop)
+* [](#2-for)
+* [](#3-forin)
+* [](#4-forof)
+* [](#5-while)
+* [](#6-switch)
 
 ## :computer:	Ferramentas e linguagens utilizadas no desenvolvimento
 <div align="auto">
