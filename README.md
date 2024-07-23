@@ -118,7 +118,7 @@ console.log(`Hoje é ${nomeDia}`);
 ## 7. Métodos Arrays
 
 ### 1. `push()`
-Adiciona um ou mais elementos ao final do array e retorna o novo comprimento do array.
+_Adiciona o último elemento_ do array e o retorna.
 ```js
 let frutas = ["Maçã", "Banana"];
 frutas.push("Laranja");
@@ -126,14 +126,14 @@ console.log(frutas); // ["Maçã", "Banana", "Laranja"]
 ```
 
 ### 2. `pop()`
-Remove o último elemento do array e o retorna.
+_Remove o último elemento_ do array e o retorna.
 ```js
 let ultimo = frutas.pop();
 console.log(frutas); // ["Maçã", "Banana"]
 ```
 
 ### 3. `shift()`
-Remove o primeiro elemento de um array e retorna esse elemento.
+_Remove o primeiro elemento_ de um array e o retorna.
 ```js
 let primeiro = frutas.shift();
 console.log(primeiro); // "Maçã"
@@ -141,7 +141,7 @@ console.log(frutas); // ["Banana"]
 ```
 
 ### 4. `unshift()`
-Adiciona um ou mais elementos ao início do array e retorna o novo comprimento do array.
+Adiciona o primeiro elemento_ de um array e o retorna.
 ```js
 frutas.unshift("Morango");
 console.log(frutas); // ["Morango", "Banana"]
