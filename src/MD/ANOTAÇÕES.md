@@ -116,6 +116,76 @@ switch (diaSemana) {
 console.log(`Hoje é ${nomeDia}`);
 ```
 
+## Arrays
+
+
+1. push()
+Adiciona um ou mais elementos ao final do array e retorna o novo comprimento do array.
+
+2. pop()
+Remove o último elemento do array e o retorna.
+
+3. shift()
+Remove o primeiro elemento do array e o retorna.
+
+4. unshift()
+Adiciona um ou mais elementos ao início do array e retorna o novo comprimento do array.
+
+5. concat()
+Junta dois ou mais arrays e retorna um novo array.
+
+6. join()
+Junta todos os elementos do array em uma string, separados por um delimitador especificado.
+
+7. slice()
+Retorna uma cópia superficial de uma parte do array, selecionada desde o início até o fim (não incluindo o fim), onde início e fim representam o índice de itens no array.
+
+8. splice()
+Altera o conteúdo de um array, adicionando novos elementos enquanto remove elementos antigos.
+
+9. indexOf()
+Retorna o primeiro índice em que um determinado elemento pode ser encontrado no array, ou -1 se o elemento não estiver presente.
+
+10. lastIndexOf()
+Retorna o último índice em que um determinado elemento pode ser encontrado no array, ou -1 se o elemento não estiver presente.
+
+11. forEach()
+Executa uma função fornecida uma vez para cada elemento do array.
+
+12. map()
+Cria um novo array com os resultados da chamada de uma função fornecida aplicada a cada elemento do array.
+
+13. filter()
+Cria um novo array com todos os elementos que passaram no teste implementado pela função fornecida.
+
+14. reduce()
+Aplica uma função contra um acumulador e cada elemento do array (da esquerda para a direita) para reduzi-lo a um único valor.
+
+15. reduceRight()
+Aplica uma função contra um acumulador e cada elemento do array (da direita para a esquerda) para reduzi-lo a um único valor.
+
+16. some()
+Testa se pelo menos um elemento no array passa no teste implementado pela função fornecida.
+
+17. every()
+Testa se todos os elementos no array passam no teste implementado pela função fornecida.
+
+18. find()
+Retorna o valor do primeiro elemento no array que satisfizer a função de teste fornecida. Caso contrário, undefined é retornado.
+
+19. findIndex()
+Retorna o índice do primeiro elemento no array que satisfizer a função de teste fornecida. Caso contrário, -1 é retornado.
+
+20. includes()
+Determina se um array contém um determinado elemento, retornando true ou false conforme apropriado.
+
+21. sort()
+Ordena os elementos do array e retorna o array.
+
+22. reverse()
+Inverte a ordem dos elementos do array no local e retorna o array.
+
+
 ## :telephone_receiver:	Contato
 Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">GitHub.</a> 
 
