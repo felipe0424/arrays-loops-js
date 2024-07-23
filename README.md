@@ -133,6 +133,7 @@ console.log(frutas); // ["Maçã", "Banana"]
 ```
 
 ### 3. `shift()`
+Remove o primeiro elemento de um array e retorna esse elemento.
 ```js
 let primeiro = frutas.shift();
 console.log(primeiro); // "Maçã"
